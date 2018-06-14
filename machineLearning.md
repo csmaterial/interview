@@ -3,7 +3,15 @@
 1.1 LR
 1）LR 的推导
 	- 目标函数：似然损失
-	线性回归假设函数为 y=\theta^TX。</br> 
+	线性回归假设函数为 <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>y</mi>
+  <mo>=</mo>
+  <msup>
+    <mi>&#x03B8;<!-- θ --></mi>
+    <mi>T</mi>
+  </msup>
+  <mi>X</mi>
+</math>。</br> 
 					之前是根据函数图像推导出损失函数为误差平方和，这次用统计学方法推导。 
 					拟合数据，就是把误差减到最小 
 					误差ϵ=y−θTX。 
