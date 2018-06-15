@@ -2,12 +2,14 @@
 ##### 1. 线性模型
 
 1. LR 的推导
-	- 目标函数：[似然损失](https://blog.csdn.net/jshazhang/article/details/80487825)  。 提示：似然函数：![1](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D303/sign=8d0989b0d2f9d72a1364161de72b282a/2fdda3cc7cd98d1096ace1be2a3fb80e7aec90c1.jpg)
-	
+	- 线性回归目标函数：[似然损失](https://blog.csdn.net/jshazhang/article/details/80487825)  。 提示：似然函数：![1](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D303/sign=8d0989b0d2f9d72a1364161de72b282a/2fdda3cc7cd98d1096ace1be2a3fb80e7aec90c1.jpg) 。
+	- Logistics Regression目标函数：
 	- 优化方法：
 		- 梯度下降
 		- 牛顿法
 	- LR 为什么用 sigmoid 函数？这个函数有什么优点和缺点？为什么不用其他函数？
+		1. 近似单位阶跃函数且单调可微。	
+		
 	
 2. 模型对比
 	- LR 和线性回归区别？线性回归可以用来做正负分类么？
