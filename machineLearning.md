@@ -31,7 +31,7 @@
 	- LR 和最大熵模型的关系？
 	
 3.模型实现
-	- 并行实现
+	- ![并行实现](https://blog.csdn.net/zhoubl668/article/details/19612215/)
 
 ##### 2. SVM
 1）SVM 的推导
