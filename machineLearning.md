@@ -36,7 +36,7 @@
 ##### 2. SVM
 1) SVM 的推导</br>
 	- 目标函数：最大间隔。</br>	
-		1. [原始问题与对偶问题](https://blog.csdn.net/sunshine_in_moon/article/details/51321461) 。对偶问题的好处？
+		1. [原始问题与对偶问题](https://blog.csdn.net/sunshine_in_moon/article/details/51321461) 。对偶问题的好处：拉格朗日乘子法其实就是把原来的有约束的优化问题转化为了无约束的优化问题，并且成功的把约束条件包含在了这个无约束的优化问题中。
 		2. KKT 条件
 		3. 合页损失函数是针对原始问题还是对偶问题？
 	- 优化方法：
