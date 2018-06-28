@@ -59,16 +59,17 @@
 
 ##### 3. 树模型
 1）基础决策树模型：ID3，C4.5，CART
+
 	- 分裂节点的选择
 		- 信息增益
 		- 信息增益比
 		- 基尼指数
 		
 	- 决策树剪枝
-		- CART 树剪枝（递归的方法）
+		- [CART 树剪枝（递归的方法）](https://blog.csdn.net/zhengzhenxian/article/details/79083643)
 		
 	- 决策树损失函数
-		- 正则化的最大似然怎么解释？
+		- 正则化的最大似然怎么解释？https://app.yinxiang.com/shard/s43/nl/7332660/83860de1-b7a9-418e-82b3-631209bb446d?title=%E5%86%B3%E7%AD%96%E6%A0%91
 		
 	- 决策树怎么处理连续值？
 2）集成学习
