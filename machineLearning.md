@@ -68,7 +68,7 @@
 	- 决策树损失函数
 		- 正则化的最大似然怎么解释？
 		- [决策树怎么处理连续值？](https://app.yinxiang.com/shard/s43/nl/7332660/83860de1-b7a9-418e-82b3-631209bb446d?title=%E5%86%B3%E7%AD%96%E6%A0%91)
-2. 集成学习
+2. [集成学习](https://app.yinxiang.com/shard/s43/nl/7332660/cf954adc-3671-4919-b036-ba17aa4566b3?title=%E9%9B%86%E6%88%90%E5%AD%A6%E4%B9%A0)
 	- bagging：随机森林
 		- 随机森林怎么防止过拟合？
 		
